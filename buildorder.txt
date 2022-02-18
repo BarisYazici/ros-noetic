@@ -1,0 +1,2 @@
+ros-noetic-jackal-gazebo
+ros-noetic-ros-numpy
