@@ -1,0 +1,4 @@
+ros-noetic-sparse-bundle-adjustment
+ros-noetic-slam-toolbox-msgs
+ros-noetic-jackal-gazebo
+ros-noetic-slam-toolbox
