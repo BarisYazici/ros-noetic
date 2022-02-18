@@ -1,0 +1,13 @@
+ros-noetic-hls-lfcd-lds-driver
+ros-noetic-turtlebot3-msgs
+ros-noetic-mbf-msgs
+ros-noetic-mbf-costmap-core
+ros-noetic-libg2o
+ros-noetic-jackal-gazebo
+ros-noetic-turtlebot3-bringup
+ros-noetic-teb-local-planner
+ros-noetic-turtlebot3-fake
+ros-noetic-turtlebot3-slam
+ros-noetic-turtlebot3-navigation
+ros-noetic-turtlebot3-example
+ros-noetic-turtlebot3
