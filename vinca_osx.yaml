@@ -51,6 +51,7 @@ packages_select_by_deps:
   - gazebo-ros-control
   - gazebo-plugins
   - lms1xx
+  - ros-control
   - controller-manager
   - interactive_marker_twist_server
   - diff-drive-controller
